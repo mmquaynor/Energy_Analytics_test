@@ -20,5 +20,5 @@ To set up the development environment, you need Python and the required librarie
 Data visualization is performed using matplotlib, seaborn, and plotly to create comprehensive reports and dashboards.
 
 # Contributions and Testing
-Developers can contribute by cloning the repository, making changes, and submitting pull requests.
+Developers can contribute by cloning the repository, making changes, and submitting pull requests.This repository is still under development.
 Testing is performed using the cross-validation methods from scikit-learn.
