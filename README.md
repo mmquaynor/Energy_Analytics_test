@@ -22,3 +22,6 @@ Data visualization is performed using matplotlib, seaborn, and plotly to create 
 # Contributions and Testing
 Developers can contribute by cloning the repository, making changes, and submitting pull requests.This repository is still under development.
 Testing is performed using the cross-validation methods from scikit-learn.
+
+#Data avalabilty
+The data is from hugging face.
